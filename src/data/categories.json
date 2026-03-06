@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "technology",
+    "name": "Technology",
+    "description": "Cutting-edge tech, AI, quantum computing, and digital innovation.",
+    "icon": "cpu",
+    "color": "#00F0FF",
+    "postCount": 5
+  },
+  {
+    "slug": "science",
+    "name": "Science",
+    "description": "Space exploration, biotech, and scientific breakthroughs.",
+    "icon": "atom",
+    "color": "#A855F7",
+    "postCount": 3
+  },
+  {
+    "slug": "design",
+    "name": "Design",
+    "description": "UI/UX, digital art, and the future of creative technology.",
+    "icon": "palette",
+    "color": "#FF00E5",
+    "postCount": 3
+  },
+  {
+    "slug": "culture",
+    "name": "Culture",
+    "description": "Digital culture, gaming, metaverse, and society.",
+    "icon": "globe",
+    "color": "#3B82F6",
+    "postCount": 2
+  },
+  {
+    "slug": "tutorials",
+    "name": "Tutorials",
+    "description": "Step-by-step guides for developers and creators.",
+    "icon": "code",
+    "color": "#39FF14",
+    "postCount": 2
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "NeonPulse",
+  "tagline": "Dispatches from the digital frontier",
+  "description": "A futuristic blog exploring technology, science, design, and the culture of tomorrow.",
+  "author": "Nova Chen",
+  "postsPerPage": 6,
+  "social": {
+    "twitter": "https://twitter.com/neonpulse",
+    "github": "https://github.com/neonpulse",
+    "discord": "https://discord.gg/neonpulse"
+  }
+}
